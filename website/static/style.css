@@ -12,13 +12,13 @@ body{
     max-width: 500px;
     width: 100%;
     background: #fff;
-    margin: 20px auto;
+    margin: 50px auto;
     box-shadow: 2px 2px 4px rgba(0,0,0,0.125);
     padding: 30px;
 }
   
 .wrapper .title{
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 700;
     margin-bottom: 25px;
     color: black;
@@ -98,7 +98,7 @@ body{
   
 .result p{
     text-align: center;
-    color: blue;
+    color: rgb(0, 17, 6);
     font-size: 18px;
     font-weight: bold;
 }
